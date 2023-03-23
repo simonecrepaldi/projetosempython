@@ -30,5 +30,6 @@ class DecidaPorMim:
             if self.eventos == 'Decida por mim':
                 print(random.choice(self.respostas))
     
+    
 decida = DecidaPorMim()
 decida.Iniciar()
