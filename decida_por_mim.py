@@ -11,6 +11,7 @@ class DecidaPorMim:
             'Não sei, você que sabe.',
             'Acho que não é o momento.',
             'Claro que sim!'
+            'Será que é uma boa ideia?'
         ]
         
     def Iniciar(self):
